@@ -1,0 +1,3 @@
+[submodule "Python-challenge"]
+	path = Python-challenge
+	url = git@github.com:abarnatan/Python-challenge.git
